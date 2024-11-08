@@ -9,3 +9,7 @@ minima:
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
   skin: classic
+author:
+  name: Anton K
+social_links:
+    - { platform: telegram,  user_url: "https://t.me/AntonKw" }
