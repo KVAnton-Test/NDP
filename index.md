@@ -259,6 +259,12 @@ title: Собор Парижской Богоматери, СЧ-2
 
 #### Лошервиля
 
+видимо оно: 
+![](assets/img/2/Le Locheur1.JPG)  
+![](assets/img/2/Le Locheur2.jpg)  
+![](assets/img/2/Le Locheur3.jpg)  
+![](assets/img/2/Le Locheur4.jpg)
+
 #### Руанский собор 
 
 (фр. Cathédrale Notre-Dame de Rouen, Собор Руанской Богоматери) — готический католический собор в городе Руан. 
