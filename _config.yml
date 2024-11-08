@@ -1,1 +1,2 @@
-theme: jekyll/minima
+theme: minima
+remote_theme: jekyll/minima
