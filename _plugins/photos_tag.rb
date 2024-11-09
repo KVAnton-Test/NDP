@@ -160,7 +160,7 @@ module Jekyll
       lines.each do |line|
         if /(?<filename>[^\[\]:]+)(?:\[(?<thumb>\S*)\])?(?::(?<title>.*))?/ =~ line
           list << "<div class=\"f-carousel__slide\" data-thumb-src=\"#{p.thumb_for(filename,thumb)}\" data-fancybox=\"gallery-#{md5}\" data-caption=\"#{title.strip}\" data-src=\"#{p.path_for(filename)}\">"
-          list << "<img src=\"#{p.thumb_for(filename,thumb)}\" alt=\"#{title.strip}\" loading=\"\" /></div>"
+          list << "<img data-lazy-src=\"#{p.thumb_for(filename,thumb)}\" alt=\"#{title.strip}\" loading=\"\" /></div>"
 
         end
       end
