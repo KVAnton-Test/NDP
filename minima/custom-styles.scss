@@ -50,3 +50,8 @@ main .wrapper {
     }
   }
 }
+
+.f-carousel__slide {
+  height: fit-content;
+  --f-carousel-slide-height: fit-content;
+}

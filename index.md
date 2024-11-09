@@ -12,9 +12,11 @@ toc: true
 {% youtube "https://www.youtube.com/watch?v=4se3Q4ugKz8" %}
 {% youtube "https://www.youtube.com/watch?v=NyxCLRot3zg" %}
 
-![фасад](assets/img/2/1200px-Notre-Dame_de_Paris_2013-07-24.jpg){:loading='eager'}  
-![собор с боку](assets/img/2/96bd85a21df264aa0a2b67ee4464da92.jpg){:loading='eager'}  
-![(2)](assets/img/2/5c21b3f8-4fbd-5d0f-be7e-402c4d8ec907){:loading='eager'}   
+{% gallery %}
+assets/img/2/1200px-Notre-Dame_de_Paris_2013-07-24.jpg: фасад
+assets/img/2/96bd85a21df264aa0a2b67ee4464da92.jpg: собор с боку
+assets/img/2/5c21b3f8-4fbd-5d0f-be7e-402c4d8ec907: собор с боку
+{% endgallery %}
 
 [элементы собора](https://yandex.ru/images/search?from=tabbar&isize=large&lr=45&aabrnd=475779672&nomisspell=1&text=%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%D0%BF%D0%B0%D1%80%D0%B8%D0%B6%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B1%D0%BE%D0%B3%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)
 
@@ -40,23 +42,23 @@ toc: true
 <br>
 
 ##### ыы:
-![](assets/img/2/Христофор.jpg){:loading='eager'}  
+![](assets/img/2/Христофор.jpg){:loading='lazy'}  
 
 
 ##### The statue of St. Christopher in Notre Dame:
-![The statue of St. Christopher in Notre Dame](assets/img/2/the-statue-of-st-christopher-in-notre-dame-2B8W98N.jpg){:loading='eager'}
+![The statue of St. Christopher in Notre Dame](assets/img/2/the-statue-of-st-christopher-in-notre-dame-2B8W98N.jpg){:loading='lazy'}
 
 <br>
 
 #### Дворец правосудия:
-![Дворец правосудия](assets/img/2/ROUQUETTE(1871)_p321_Palais_de_Justice.jpg "Дворец правосудия"){:loading='eager'}  
+{% photo assets/img/2/ROUQUETTE(1871)_p321_Palais_de_Justice.jpg %}
 
 <br>
 
 #### Острие колокольни Страсбургского собора:
 
 {% youtube "https://www.youtube.com/watch?v=8K1nCvUgy8Y" %}
-![острие колокольни Страсбургского собора](assets/img/2/Wenceslas_Hollar_-_Strasbourg_cathedral.jpg "острие колокольни Страсбургского собора"){:loading='eager'}  
+{% photo assets/img/2/Wenceslas_Hollar_-_Strasbourg_cathedral.jpg %}
 
 
 <br>
@@ -76,16 +78,21 @@ toc: true
 #### Валь де Грас:
 {% youtube "https://www.youtube.com/watch?v=SqtHTKvq4vg" %}
 
-![церкви Валь де Грас](assets/img/2/Altar_in_the_church_of_Val-de-Grâce,_Paris_5th_004.JPG "церкви Валь де Грас"){:loading='eager'}  
-![снаружи](assets/img/2/12c704be4858fb1bec8aeb182f2c7bf2.jpg "снаружи"){:loading='eager'}  
-![купол церкви Валь де Грас](assets/img/2/Paris_(75005)_Val-de-Grâce_Église_Notre-Dame_Coupole_03.JPG "купол церкви Валь де Грас"){:loading='eager'}   
+{% gallery %}
+assets/img/2/Altar_in_the_church_of_Val-de-Grâce,_Paris_5th_004.JPG: церкви Валь де Грас
+assets/img/2/12c704be4858fb1bec8aeb182f2c7bf2.jpg: снаружи
+assets/img/2/Paris_(75005)_Val-de-Grâce_Église_Notre-Dame_Coupole_03.JPG: купол церкви Валь де Грас
+{% endgallery %}
 
 <br>
 
 #### Дом Инвалидов:
 {% youtube "https://www.youtube.com/watch?v=PZF8Tj33nHI" %}
-![Дому Инвалидов](assets/img/2/1686191286187638726.jpg "Дом Инвалидов"){:loading='eager'}   
-![Дом Инвалидов с высоты](assets/img/2/5d4de87811658d67bae25dfd30764d29.jpg "Дом Инвалидов с высоты"){:loading='eager'}  
+
+{% gallery %}
+assets/img/2/1686191286187638726.jpg: Дом Инвалидов
+assets/img/2/5d4de87811658d67bae25dfd30764d29.jpg:Дом Инвалидов с высоты
+{% endgallery %}
 
 <br>
 <br>
@@ -110,8 +117,10 @@ toc: true
 
 #### Храм Дианы в Эфесе:
 {% youtube "https://www.youtube.com/watch?v=OkJz-voxOeA&t=565s" %}
-![1](assets/img/2/dina.jpg){:loading='eager'}  
-![2](assets/img/2/dina2.jpg){:loading='eager'}  
+{% gallery %}
+assets/img/2/dina.jpg: 
+assets/img/2/dina2.jpg: 
+{% endgallery %}
 
 Храм Артемиды в Эфесе — четвёртое чудо света. 
 Это грандиозное сооружение было посвящено Артемиде, греческой богине охоты, дикой природы и плодородия. 
@@ -154,7 +163,7 @@ toc: true
 <br>
 
 ##### Храм Святой Софии:
-![храм Святой Софии](assets/img/2/sofi.jpg "храм Святой Софии"){:loading='eager'}  
+{% photo assets/img/2/sofi.jpg %}
 
 <br>
 <br>
@@ -174,14 +183,14 @@ toc: true
 
 #### Турнюсское аббатство:
 {% youtube "https://www.youtube.com/watch?v=_rJH_cVk7r0" %}
-![Турнюсское аббатство](assets/img/2/tournus.jpg "Турнюсское аббатство"){:loading='eager'}  
+{% photo assets/img/2/tournus.jpg %}
 
 <br>
 
 #### Собор в Бурже:
 {% youtube "https://www.youtube.com/watch?v=Iy2AQG_2fPQ" %}
 {% youtube  "https://www.youtube.com/watch?v=FI14FNMCNV4" %}
-![собор в Бурже](assets/img/2/Burje.jpg "собор в Бурже"){:loading='eager'}  
+{% photo assets/img/2/Burje.jpg %}
 
 <br>
 <br>
@@ -201,8 +210,11 @@ toc: true
 
 #### Малые Красные двери:
 
-![](assets/img/2/красная дверь 1.jpg){:loading='eager'}  
-![](assets/img/2/красная дверь new.jpg){:loading='eager'}  
+
+{% gallery %}
+assets/img/2/красная дверь 1.jpg: 
+assets/img/2/красная дверь new.jpg: 
+{% endgallery %}
 
 <br>
 
@@ -218,8 +230,11 @@ toc: true
 [ЖЖ — Аббатство Сен-Жермен-де-Пре: раскрашенная готика.](https://ru-travel.livejournal.com/24776176.html)
 
 {% youtube 360 "https://www.youtube.com/watch?v=-l_6nJwgdq0" %}
-![](assets/img/2/Сен-Жермен-де-Пре.jpg){:loading='eager'}  
-![](assets/img/2/церковь Сен-Жермен-де-Пре.jpg){:loading='eager'}  
+
+{% gallery %}
+assets/img/2/Сен-Жермен-де-Пре.jpg: 
+assets/img/2/церковь Сен-Жермен-де-Пре.jpg: 
+{% endgallery %}
 
 <br>
 
@@ -237,9 +252,12 @@ toc: true
 
 {% youtube "https://www.youtube.com/watch?v=qDPpestDGM0" %}
 
-![](assets/img/2/церковь Сен-Жак-де-ла-Бушри.jpg){:loading='eager'}  
-![](assets/img/2/башня Сен-Жак-де-ла-Бушри.jpg){:loading='eager'}  
-![](assets/img/2/верх башни Сен-Жак-де-ла-Бушри.jpg){:loading='eager'}  
+
+{% gallery %}
+assets/img/2/церковь Сен-Жак-де-ла-Бушри.jpg: 
+assets/img/2/башня Сен-Жак-де-ла-Бушри.jpg: 
+assets/img/2/верх башни Сен-Жак-де-ла-Бушри.jpg: 
+{% endgallery %}
 
 <br>
 <br>
@@ -272,9 +290,11 @@ toc: true
 
 {% youtube "https://www.youtube.com/watch?v=TxeQGXdoJUs" %}
 
-![](assets/img/2/Жюмьеж сверху.jpg){:loading='eager'}  
-![](assets/img/2/Жюмьеж панорама.jpg){:loading='eager'}  
-![](assets/img/2/Жюмьеж колоны.jpg){:loading='eager'}  
+{% gallery %}
+assets/img/2/Жюмьеж сверху.jpg: 
+assets/img/2/Жюмьеж панорама.jpg: 
+assets/img/2/Жюмьеж колоны.jpg: 
+{% endgallery %}
 
 <br>
 
@@ -298,8 +318,11 @@ toc: true
 
 {% youtube "https://www.youtube.com/watch?v=0eURrZSvnv0" %}
 
-![](assets/img/2/Реймсский собор.jpg){:loading='eager'}  
-![](assets/img/2/Реймсский собор2.jpg){:loading='eager'}  
+
+{% gallery %}
+assets/img/2/Реймсский собор.jpg: 
+assets/img/2/Реймсский собор2.jpg: 
+{% endgallery %}
 
 <br>
 
@@ -317,9 +340,12 @@ toc: true
 
 {% youtube 360° "https://www.youtube.com/watch?v=_4kBntxPUic" %}
 
-![](assets/img/2/фронт Собор Святого Креста.jpg){:loading='eager'}  
-![](assets/img/2/зад Собор Святого Креста.jpg){:loading='eager'}  
-![](assets/img/2/Собор Святого Креста.jpg){:loading='eager'}  
+
+{% gallery %}
+assets/img/2/фронт Собор Святого Креста.jpg: 
+assets/img/2/зад Собор Святого Креста.jpg: 
+assets/img/2/Собор Святого Креста.jpg: 
+{% endgallery %}
 
 <br>
 <br>
@@ -344,17 +370,21 @@ toc: true
 Это первый в мире католический собор, построенный в готическом стиле
 
 {% youtube "https://www.youtube.com/watch?v=z8reSgcN-zk" %}
-![](assets/img/2/Basilica of Saint-Denis.jpg){:loading='eager'}  
+{% photo assets/img/2/Basilica of Saint-Denis.jpg %}
+
 
 <br>
 
 #### Ле-Лошёр:
 
 видимо оно: 
-![](assets/img/2/Le Locheur1.JPG){:loading='eager'}  
-![](assets/img/2/Le Locheur2.jpg){:loading='eager'}  
-![](assets/img/2/Le Locheur3.jpg){:loading='eager'}  
-![](assets/img/2/Le Locheur4.jpg){:loading='eager'}  
+
+{% gallery %}
+assets/img/2/Le Locheur1.JPG: 
+assets/img/2/Le Locheur2.jpg: 
+assets/img/2/Le Locheur3.jpg: 
+assets/img/2/Le Locheur4.jpg: 
+{% endgallery %}
 
 <br>
 
@@ -366,6 +396,6 @@ toc: true
 Высота: 151 метр.
 
 {% youtube "https://www.youtube.com/watch?v=UoYlinCbkdo" %} 
-![](assets/img/2/Rouen_Cathedral_as_seen_from_Gros_Horloge_140215_4.jpg){:loading='eager'}  
+{% photo assets/img/2/Rouen_Cathedral_as_seen_from_Gros_Horloge_140215_4.jpg  %}
 
 <br>

@@ -22,6 +22,24 @@ toc: true
     </main>
 
     {%- include footer.html -%}
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/carousel/carousel.umd.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/carousel/carousel.thumbs.umd.js"></script>
+  <script type="text/javascript">
+    const carousel = document.querySelectorAll(".f-carousel");
+    carousel.forEach(item => {
+      new Carousel(item, {
+        infinite: true, adaptiveHeight: true,
+        Dots: false,
+        Thumbs: {
+          type: "classic",
+        },
+      }, { Thumbs });
+    })
+    Fancybox.bind("[data-fancybox]", {
+        // Your custom options
+    });
+  </script>
 
   </body>
 
