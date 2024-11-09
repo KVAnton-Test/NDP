@@ -9,7 +9,7 @@ title: Собор Парижской Богоматери, СЧ-2
 
 <br>
 
-[youtube 2018 dji mavic](https://www.youtube.com/watch?v=4se3Q4ugKz8)  
+{% youtube "https://www.youtube.com/watch?v=4se3Q4ugKz8" %}
 [youtube](https://www.youtube.com/watch?v=NyxCLRot3zg)
 
 ![фасад](assets/img/2/1200px-Notre-Dame_de_Paris_2013-07-24.jpg){:loading='eager'}  
