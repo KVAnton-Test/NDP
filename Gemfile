@@ -11,6 +11,7 @@ group :jekyll_plugins do
     gem "jekyll-figure"
     gem "jekyll-loading-lazy"
     gem "jekyll-youtube"
+    gem 'jekyll-toc'
     # gem 'jekyll-commonmark-ghpages'
 end
 

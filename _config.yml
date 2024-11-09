@@ -2,6 +2,9 @@ domain: kvanton-test.github.io/NDP       # if you want to force HTTPS, specify t
 url: https://kvanton-test.github.io/NDP  # the base hostname and protocol for your site, e.g. http://example.com
 
 theme: minima
+toc:
+  min_level: 2 # default: 1
+  max_level: 4 # default: 6
 
 # markdown: CommonMarkGhPages
 # commonmark:
@@ -13,6 +16,7 @@ plugins:
   - jekyll-figure
   - jekyll-loading-lazy
   - jekyll-youtube
+  - jekyll-toc
 
 autoprefixer:
   browsers:
