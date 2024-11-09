@@ -18,9 +18,14 @@ plugins:
   - jekyll-youtube
   - jekyll-toc
 
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
+
 autoprefixer:
   browsers:
   - last 2 versions
+
 minima:
   # Minima skin selection.
   # Available skins are:
