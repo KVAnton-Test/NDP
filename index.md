@@ -1,16 +1,15 @@
 ---
-layout: base 
+layout: page 
 title: Собор Парижской Богоматери, СЧ-2
 ---
 
-# Собор Парижской Богоматери, СЧ-2
 ## Книга третья
 ## I. Собор Богоматери
 
 <br>
 
 {% youtube "https://www.youtube.com/watch?v=4se3Q4ugKz8" %}
-[youtube](https://www.youtube.com/watch?v=NyxCLRot3zg)
+{% youtube "https://www.youtube.com/watch?v=NyxCLRot3zg" %}
 
 ![фасад](assets/img/2/1200px-Notre-Dame_de_Paris_2013-07-24.jpg){:loading='eager'}  
 ![собор с боку](assets/img/2/96bd85a21df264aa0a2b67ee4464da92.jpg){:loading='eager'}  
@@ -53,7 +52,8 @@ title: Собор Парижской Богоматери, СЧ-2
 <br>
 
 ### Острие колокольни Страсбургского собора:
-![youtube drone](https://www.youtube.com/watch?v=8K1nCvUgy8Y){:loading='eager'}  
+
+{% youtube "https://www.youtube.com/watch?v=8K1nCvUgy8Y" %}
 ![острие колокольни Страсбургского собора](assets/img/2/Wenceslas_Hollar_-_Strasbourg_cathedral.jpg "острие колокольни Страсбургского собора"){:loading='eager'}  
 
 
@@ -70,7 +70,8 @@ title: Собор Парижской Богоматери, СЧ-2
 <br>
 
 ### Валь де Грас:
-[youtube](https://www.youtube.com/watch?v=SqtHTKvq4vg)  
+{% youtube "https://www.youtube.com/watch?v=SqtHTKvq4vg" %}
+
 ![церкви Валь де Грас](assets/img/2/Altar_in_the_church_of_Val-de-Grâce,_Paris_5th_004.JPG "церкви Валь де Грас"){:loading='eager'}  
 ![снаружи](assets/img/2/12c704be4858fb1bec8aeb182f2c7bf2.jpg "снаружи"){:loading='eager'}  
 ![купол церкви Валь де Грас](assets/img/2/Paris_(75005)_Val-de-Grâce_Église_Notre-Dame_Coupole_03.JPG "купол церкви Валь де Грас"){:loading='eager'}   
@@ -78,7 +79,7 @@ title: Собор Парижской Богоматери, СЧ-2
 <br>
 
 ### Дом Инвалидов:
-[youtube](https://www.youtube.com/watch?v=PZF8Tj33nHI)  
+{% youtube "https://www.youtube.com/watch?v=PZF8Tj33nHI" %}
 ![Дому Инвалидов](assets/img/2/1686191286187638726.jpg "Дом Инвалидов"){:loading='eager'}   
 ![Дом Инвалидов с высоты](assets/img/2/5d4de87811658d67bae25dfd30764d29.jpg "Дом Инвалидов с высоты"){:loading='eager'}  
 
@@ -102,7 +103,7 @@ title: Собор Парижской Богоматери, СЧ-2
 <br>
 
 ### Храм Дианы в Эфесе:
-[youtube](https://www.youtube.com/watch?v=OkJz-voxOeA&t=565s)  
+{% youtube "https://www.youtube.com/watch?v=OkJz-voxOeA&t=565s" %}
 ![1](assets/img/2/dina.jpg){:loading='eager'}  
 ![2](assets/img/2/dina2.jpg){:loading='eager'}  
 
@@ -161,14 +162,14 @@ title: Собор Парижской Богоматери, СЧ-2
 <br>
 
 ### Турнюсское аббатство:
-[youtube](https://www.youtube.com/watch?v=_rJH_cVk7r0)  
+{% youtube "https://www.youtube.com/watch?v=_rJH_cVk7r0" %}
 ![Турнюсское аббатство](assets/img/2/tournus.jpg "Турнюсское аббатство"){:loading='eager'}  
 
 <br>
 
 ### Собор в Бурже:
-[youtube drone](https://www.youtube.com/watch?v=Iy2AQG_2fPQ)  
-[youtube ](https://www.youtube.com/watch?v=FI14FNMCNV4)  
+{% youtube "https://www.youtube.com/watch?v=Iy2AQG_2fPQ" %}
+{% youtube  "https://www.youtube.com/watch?v=FI14FNMCNV4" %}
 ![собор в Бурже](assets/img/2/Burje.jpg "собор в Бурже"){:loading='eager'}  
 
 <br>
@@ -203,7 +204,7 @@ title: Собор Парижской Богоматери, СЧ-2
 
 [ЖЖ — Аббатство Сен-Жермен-де-Пре: раскрашенная готика.](https://ru-travel.livejournal.com/24776176.html)
 
-[youtube 360](https://www.youtube.com/watch?v=-l_6nJwgdq0)  
+{% youtube 360 "https://www.youtube.com/watch?v=-l_6nJwgdq0" %}
 ![](assets/img/2/Сен-Жермен-де-Пре.jpg){:loading='eager'}  
 ![](assets/img/2/церковь Сен-Жермен-де-Пре.jpg){:loading='eager'}  
 
@@ -221,7 +222,7 @@ title: Собор Парижской Богоматери, СЧ-2
 
 прототип Квазимодо из романа Виктора Гюго был звонарём не в соборе Парижской Богоматери, а в церкви Сен-Жак-Ла-Бушри и поднимался на башню Сен-Жак, чтобы звонить в колокола. 
 
-[youtube](https://www.youtube.com/watch?v=qDPpestDGM0)
+{% youtube "https://www.youtube.com/watch?v=qDPpestDGM0" %}
 
 ![](assets/img/2/церковь Сен-Жак-де-ла-Бушри.jpg){:loading='eager'}  
 ![](assets/img/2/башня Сен-Жак-де-ла-Бушри.jpg){:loading='eager'}  
@@ -254,7 +255,7 @@ title: Собор Парижской Богоматери, СЧ-2
 
 якобы Виктор Гюго часто приезжал сюда, называя аббатство самыми красивыми руинами Франции
 
-[youtube](https://www.youtube.com/watch?v=TxeQGXdoJUs)
+{% youtube "https://www.youtube.com/watch?v=TxeQGXdoJUs" %}
 
 ![](assets/img/2/Жюмьеж сверху.jpg){:loading='eager'}  
 ![](assets/img/2/Жюмьеж панорама.jpg){:loading='eager'}  
@@ -274,7 +275,7 @@ title: Собор Парижской Богоматери, СЧ-2
 
 Отличительными чертами собора являются ярко выраженное доминирование вертикальных линий и обилие статуй, украшающих фасады: их количество составляет 2303. Среди них наиболее известен так называемый «улыбающийся ангел», ставший одним из символов города Реймса.
 
-[youtube](https://www.youtube.com/watch?v=0eURrZSvnv0)
+{% youtube "https://www.youtube.com/watch?v=0eURrZSvnv0" %}
 [ЖЖ — Пристанище нечисти, королей и супергероев. Реймсский собор. ](https://morseanen.livejournal.com/86018.html)
 
 ![](assets/img/2/Реймсский собор.jpg){:loading='eager'}  
@@ -292,7 +293,7 @@ title: Собор Парижской Богоматери, СЧ-2
 Высота центрального нефа — 32 метра, башен главного фасада — 82 метра, шпиля над средокрестием — 114 метров. 
 Ярким украшением здания являются многочисленные витражи
 
-[youtube 360°](https://www.youtube.com/watch?v=_4kBntxPUic)  
+{% youtube 360° "https://www.youtube.com/watch?v=_4kBntxPUic" %}
 [ЖЖ — Собор Святого Креста, Орлеан](https://spratto.livejournal.com/12834.html)  
 
 ![](assets/img/2/фронт Собор Святого Креста.jpg){:loading='eager'}  
@@ -319,7 +320,7 @@ title: Собор Парижской Богоматери, СЧ-2
 который расположен в индустриальном районе северного пригорода Парижа. 
 Это первый в мире католический собор, построенный в готическом стиле
 
-[youtube drone](https://www.youtube.com/watch?v=z8reSgcN-zk)  
+{% youtube "https://www.youtube.com/watch?v=z8reSgcN-zk" %}
 ![](assets/img/2/Basilica of Saint-Denis.jpg){:loading='eager'}  
 
 <br>
@@ -344,6 +345,6 @@ title: Собор Парижской Богоматери, СЧ-2
 ![](assets/img/2/Rouen_Cathedral_as_seen_from_Gros_Horloge_140215_4.jpg){:loading='eager'}  
 <video >
   <source src="https://www.youtube.com/watch?v=UoYlinCbkdo">
-  [youtube drone](https://www.youtube.com/watch?v=UoYlinCbkdo)
+   {% youtube "https://www.youtube.com/watch?v=UoYlinCbkdo" %}
 </video> 
 <br>

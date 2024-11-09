@@ -1,9 +1,14 @@
-remote_theme: jekyll/minima
+domain: kvanton-test.github.io/NDP       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://kvanton-test.github.io/NDP  # the base hostname and protocol for your site, e.g. http://example.com
+
+theme: minima
+
 plugins:
   - jekyll-minifier
-  - jekyll-autoprefixer
   - jekyll-figure
   - jekyll-loading-lazy
+  - jekyll-youtube
+
 autoprefixer:
   browsers:
   - last 2 versions
@@ -19,5 +24,6 @@ minima:
   skin: classic
   social_links:
     - { platform: telegram,  user_url: "https://t.me/AntonKw" }
+
 author:
   name: Anton K
