@@ -342,9 +342,7 @@ title: Собор Парижской Богоматери, СЧ-2
 Строительство: начали возводить в 1145 году, строительство продлилось до 1506 года. 
 Высота: 151 метр.
 
+{% youtube "https://www.youtube.com/watch?v=UoYlinCbkdo" %}
 ![](assets/img/2/Rouen_Cathedral_as_seen_from_Gros_Horloge_140215_4.jpg){:loading='eager'}  
-<video >
-  <source src="https://www.youtube.com/watch?v=UoYlinCbkdo">
-   {% youtube "https://www.youtube.com/watch?v=UoYlinCbkdo" %}
-</video> 
+
 <br>
