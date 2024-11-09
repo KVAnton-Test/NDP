@@ -1,4 +1,12 @@
 remote_theme: jekyll/minima
+plugins:
+  - jekyll-minifier
+  - jekyll-autoprefixer
+  - jekyll-figure
+  - jekyll-loading-lazy
+autoprefixer:
+  browsers:
+  - last 2 versions
 minima:
   # Minima skin selection.
   # Available skins are:

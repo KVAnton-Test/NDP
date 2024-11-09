@@ -12,9 +12,9 @@ title: Собор Парижской Богоматери, СЧ-2
 [youtube 2018 dji mavic](https://www.youtube.com/watch?v=4se3Q4ugKz8)  
 [youtube](https://www.youtube.com/watch?v=NyxCLRot3zg)
 
-![фасад](assets/img/2/1200px-Notre-Dame_de_Paris_2013-07-24.jpg)  
-![собор с боку](assets/img/2/96bd85a21df264aa0a2b67ee4464da92.jpg)  
-![(2)](assets/img/2/5c21b3f8-4fbd-5d0f-be7e-402c4d8ec907)   
+![фасад](assets/img/2/1200px-Notre-Dame_de_Paris_2013-07-24.jpg){:loading='eager'}  
+![собор с боку](assets/img/2/96bd85a21df264aa0a2b67ee4464da92.jpg){:loading='eager'}  
+![(2)](assets/img/2/5c21b3f8-4fbd-5d0f-be7e-402c4d8ec907){:loading='eager'}   
 
 [элементы собора](https://yandex.ru/images/search?from=tabbar&isize=large&lr=45&aabrnd=475779672&nomisspell=1&text=%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%D0%BF%D0%B0%D1%80%D0%B8%D0%B6%D1%81%D0%BA%D0%BE%D0%B9%20%D0%B1%D0%BE%D0%B3%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B)
 
@@ -39,22 +39,22 @@ title: Собор Парижской Богоматери, СЧ-2
 <br>
 
 ##### ыы:
-![](assets/img/2/Христофор.jpg)  
+![](assets/img/2/Христофор.jpg){:loading='eager'}  
 
 
 ##### The statue of St. Christopher in Notre Dame:
-![The statue of St. Christopher in Notre Dame](assets/img/2/the-statue-of-st-christopher-in-notre-dame-2B8W98N.jpg)
+![The statue of St. Christopher in Notre Dame](assets/img/2/the-statue-of-st-christopher-in-notre-dame-2B8W98N.jpg){:loading='eager'}
 
 <br>
 
 ### Дворец правосудия:
-![Дворец правосудия](assets/img/2/ROUQUETTE(1871)_p321_Palais_de_Justice.jpg "Дворец правосудия")  
+![Дворец правосудия](assets/img/2/ROUQUETTE(1871)_p321_Palais_de_Justice.jpg "Дворец правосудия"){:loading='eager'}  
 
 <br>
 
 ### Острие колокольни Страсбургского собора:
-![youtube drone](https://www.youtube.com/watch?v=8K1nCvUgy8Y)  
-![острие колокольни Страсбургского собора](assets/img/2/Wenceslas_Hollar_-_Strasbourg_cathedral.jpg "острие колокольни Страсбургского собора")  
+![youtube drone](https://www.youtube.com/watch?v=8K1nCvUgy8Y){:loading='eager'}  
+![острие колокольни Страсбургского собора](assets/img/2/Wenceslas_Hollar_-_Strasbourg_cathedral.jpg "острие колокольни Страсбургского собора"){:loading='eager'}  
 
 
 <br>
@@ -71,16 +71,16 @@ title: Собор Парижской Богоматери, СЧ-2
 
 ### Валь де Грас:
 [youtube](https://www.youtube.com/watch?v=SqtHTKvq4vg)  
-![церкви Валь де Грас](assets/img/2/Altar_in_the_church_of_Val-de-Grâce,_Paris_5th_004.JPG "церкви Валь де Грас")  
-![снаружи](assets/img/2/12c704be4858fb1bec8aeb182f2c7bf2.jpg "снаружи")  
-![купол церкви Валь де Грас](assets/img/2/Paris_(75005)_Val-de-Grâce_Église_Notre-Dame_Coupole_03.JPG "купол церкви Валь де Грас")   
+![церкви Валь де Грас](assets/img/2/Altar_in_the_church_of_Val-de-Grâce,_Paris_5th_004.JPG "церкви Валь де Грас"){:loading='eager'}  
+![снаружи](assets/img/2/12c704be4858fb1bec8aeb182f2c7bf2.jpg "снаружи"){:loading='eager'}  
+![купол церкви Валь де Грас](assets/img/2/Paris_(75005)_Val-de-Grâce_Église_Notre-Dame_Coupole_03.JPG "купол церкви Валь де Грас"){:loading='eager'}   
 
 <br>
 
 ### Дом Инвалидов:
 [youtube](https://www.youtube.com/watch?v=PZF8Tj33nHI)  
-![Дому Инвалидов](assets/img/2/1686191286187638726.jpg "Дом Инвалидов")   
-![Дом Инвалидов с высоты](assets/img/2/5d4de87811658d67bae25dfd30764d29.jpg "Дом Инвалидов с высоты")  
+![Дому Инвалидов](assets/img/2/1686191286187638726.jpg "Дом Инвалидов"){:loading='eager'}   
+![Дом Инвалидов с высоты](assets/img/2/5d4de87811658d67bae25dfd30764d29.jpg "Дом Инвалидов с высоты"){:loading='eager'}  
 
 <br>
 <br>
@@ -103,8 +103,8 @@ title: Собор Парижской Богоматери, СЧ-2
 
 ### Храм Дианы в Эфесе:
 [youtube](https://www.youtube.com/watch?v=OkJz-voxOeA&t=565s)  
-![1](assets/img/2/dina.jpg)  
-![2](assets/img/2/dina2.jpg)  
+![1](assets/img/2/dina.jpg){:loading='eager'}  
+![2](assets/img/2/dina2.jpg){:loading='eager'}  
 
 Храм Артемиды в Эфесе — четвёртое чудо света. 
 Это грандиозное сооружение было посвящено Артемиде, греческой богине охоты, дикой природы и плодородия. 
@@ -144,7 +144,7 @@ title: Собор Парижской Богоматери, СЧ-2
 <br>
 
 ### Храм Святой Софии:
-![храм Святой Софии](assets/img/2/sofi.jpg "храм Святой Софии")  
+![храм Святой Софии](assets/img/2/sofi.jpg "храм Святой Софии"){:loading='eager'}  
 
 <br>
 <br>
@@ -162,14 +162,14 @@ title: Собор Парижской Богоматери, СЧ-2
 
 ### Турнюсское аббатство:
 [youtube](https://www.youtube.com/watch?v=_rJH_cVk7r0)  
-![Турнюсское аббатство](assets/img/2/tournus.jpg "Турнюсское аббатство")  
+![Турнюсское аббатство](assets/img/2/tournus.jpg "Турнюсское аббатство"){:loading='eager'}  
 
 <br>
 
 ### Собор в Бурже:
 [youtube drone](https://www.youtube.com/watch?v=Iy2AQG_2fPQ)  
 [youtube ](https://www.youtube.com/watch?v=FI14FNMCNV4)  
-![собор в Бурже](assets/img/2/Burje.jpg "собор в Бурже")  
+![собор в Бурже](assets/img/2/Burje.jpg "собор в Бурже"){:loading='eager'}  
 
 <br>
 <br>
@@ -187,8 +187,8 @@ title: Собор Парижской Богоматери, СЧ-2
 
 ### Малые Красные двери:
 
-![](assets/img/2/красная дверь 1.jpg)  
-![](assets/img/2/красная дверь new.jpg)  
+![](assets/img/2/красная дверь 1.jpg){:loading='eager'}  
+![](assets/img/2/красная дверь new.jpg){:loading='eager'}  
 
 <br>
 
@@ -204,8 +204,8 @@ title: Собор Парижской Богоматери, СЧ-2
 [ЖЖ — Аббатство Сен-Жермен-де-Пре: раскрашенная готика.](https://ru-travel.livejournal.com/24776176.html)
 
 [youtube 360](https://www.youtube.com/watch?v=-l_6nJwgdq0)  
-![](assets/img/2/Сен-Жермен-де-Пре.jpg)  
-![](assets/img/2/церковь Сен-Жермен-де-Пре.jpg)  
+![](assets/img/2/Сен-Жермен-де-Пре.jpg){:loading='eager'}  
+![](assets/img/2/церковь Сен-Жермен-де-Пре.jpg){:loading='eager'}  
 
 <br>
 
@@ -223,9 +223,9 @@ title: Собор Парижской Богоматери, СЧ-2
 
 [youtube](https://www.youtube.com/watch?v=qDPpestDGM0)
 
-![](assets/img/2/церковь Сен-Жак-де-ла-Бушри.jpg)  
-![](assets/img/2/башня Сен-Жак-де-ла-Бушри.jpg)  
-![](assets/img/2/верх башни Сен-Жак-де-ла-Бушри.jpg)  
+![](assets/img/2/церковь Сен-Жак-де-ла-Бушри.jpg){:loading='eager'}  
+![](assets/img/2/башня Сен-Жак-де-ла-Бушри.jpg){:loading='eager'}  
+![](assets/img/2/верх башни Сен-Жак-де-ла-Бушри.jpg){:loading='eager'}  
 
 <br>
 <br>
@@ -256,9 +256,9 @@ title: Собор Парижской Богоматери, СЧ-2
 
 [youtube](https://www.youtube.com/watch?v=TxeQGXdoJUs)
 
-![](assets/img/2/Жюмьеж сверху.jpg)  
-![](assets/img/2/Жюмьеж панорама.jpg)  
-![](assets/img/2/Жюмьеж колоны.jpg)  
+![](assets/img/2/Жюмьеж сверху.jpg){:loading='eager'}  
+![](assets/img/2/Жюмьеж панорама.jpg){:loading='eager'}  
+![](assets/img/2/Жюмьеж колоны.jpg){:loading='eager'}  
 
 <br>
 
@@ -277,8 +277,8 @@ title: Собор Парижской Богоматери, СЧ-2
 [youtube](https://www.youtube.com/watch?v=0eURrZSvnv0)
 [ЖЖ — Пристанище нечисти, королей и супергероев. Реймсский собор. ](https://morseanen.livejournal.com/86018.html)
 
-![](assets/img/2/Реймсский собор.jpg)  
-![](assets/img/2/Реймсский собор2.jpg)  
+![](assets/img/2/Реймсский собор.jpg){:loading='eager'}  
+![](assets/img/2/Реймсский собор2.jpg){:loading='eager'}  
 
 <br>
 
@@ -295,9 +295,9 @@ title: Собор Парижской Богоматери, СЧ-2
 [youtube 360°](https://www.youtube.com/watch?v=_4kBntxPUic)  
 [ЖЖ — Собор Святого Креста, Орлеан](https://spratto.livejournal.com/12834.html)  
 
-![](assets/img/2/фронт Собор Святого Креста.jpg)  
-![](assets/img/2/зад Собор Святого Креста.jpg)  
-![](assets/img/2/Собор Святого Креста.jpg)  
+![](assets/img/2/фронт Собор Святого Креста.jpg){:loading='eager'}  
+![](assets/img/2/зад Собор Святого Креста.jpg){:loading='eager'}  
+![](assets/img/2/Собор Святого Креста.jpg){:loading='eager'}  
 
 <br>
 <br>
@@ -320,17 +320,17 @@ title: Собор Парижской Богоматери, СЧ-2
 Это первый в мире католический собор, построенный в готическом стиле
 
 [youtube drone](https://www.youtube.com/watch?v=z8reSgcN-zk)  
-![](assets/img/2/Basilica of Saint-Denis.jpg)  
+![](assets/img/2/Basilica of Saint-Denis.jpg){:loading='eager'}  
 
 <br>
 
 ### Ле-Лошёр:
 
 видимо оно: 
-![](assets/img/2/Le Locheur1.JPG)  
-![](assets/img/2/Le Locheur2.jpg)  
-![](assets/img/2/Le Locheur3.jpg)  
-![](assets/img/2/Le Locheur4.jpg)  
+![](assets/img/2/Le Locheur1.JPG){:loading='eager'}  
+![](assets/img/2/Le Locheur2.jpg){:loading='eager'}  
+![](assets/img/2/Le Locheur3.jpg){:loading='eager'}  
+![](assets/img/2/Le Locheur4.jpg){:loading='eager'}  
 
 <br>
 
@@ -341,7 +341,7 @@ title: Собор Парижской Богоматери, СЧ-2
 Строительство: начали возводить в 1145 году, строительство продлилось до 1506 года. 
 Высота: 151 метр.
 
-![](assets/img/2/Rouen_Cathedral_as_seen_from_Gros_Horloge_140215_4.jpg)  
+![](assets/img/2/Rouen_Cathedral_as_seen_from_Gros_Horloge_140215_4.jpg){:loading='eager'}  
 <video >
   <source src="https://www.youtube.com/watch?v=UoYlinCbkdo">
   [youtube drone](https://www.youtube.com/watch?v=UoYlinCbkdo)
