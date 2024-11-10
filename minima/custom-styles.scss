@@ -11,6 +11,7 @@ $kw-xlg: 1280 / 100vw;
 
 #table-of-contents {
   display: none;
+
   @media (min-width: 1280px) {
     display: block;
     // position: fixed;
@@ -25,6 +26,8 @@ $kw-xlg: 1280 / 100vw;
       list-style: none;
       margin: 0;
       margin-right: 15 / $kw-xlg;
+      overflow: scroll;
+      height: 90vh;
     }
   }
 }
