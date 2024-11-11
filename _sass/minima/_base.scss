@@ -140,7 +140,7 @@ a {
 blockquote {
   color: $brand-color;
   border-left: 4px solid $border-color-01;
-  padding-left: $spacing-unit * .5;
+  padding-left: ($spacing-unit * .5);
   @include relative-font-size(1.125);
   font-style: italic;
 
@@ -198,7 +198,7 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: calc(#{$content-width} - (#{$spacing-unit}));
+  max-width: ($content-width -  $spacing-unit);
   margin-right: auto;
   margin-left: auto;
   padding-right: $spacing-unit * .5;
@@ -206,7 +206,7 @@ pre {
   @extend %clearfix;
 
   @media screen and (min-width: $on-large) {
-    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width: ($content-width -  ($spacing-unit * 2));
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
   }
