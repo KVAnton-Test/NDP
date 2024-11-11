@@ -77,7 +77,7 @@ module Jekyll
       # FIXME: This seems excessive
       if filename =~ /\./
         # thumb = (thumb unless thumb == 'default') || filename.gsub(/(?:_b)?\.(?<ext>[^\.]+)?$/, ".webp")
-        thumb = (thumb unless thumb == 'default') || filename.gsub(/(?:_b)?\.(?<ext>[^\.]+)?$/, ".\\k<ext>")
+        thumb = (thumb unless thumb == 'default') || filename.gsub(/(?:_b)?\.(?<ext>[^\.]+)?$/, "_m.webp")
       else
         thumb = (thumb unless thumb == 'default') || "#{filename}"
       end
@@ -161,7 +161,7 @@ module Jekyll
       lines.each do |line|
         if /(?<filename>[^\[\]:]+)(?:\[(?<thumb>\S*)\])?(?::(?<title>.*))?/ =~ line
           list << "<div class=\"f-carousel__slide\" data-thumb-src=\"#{p.thumb_for(filename,thumb)}\" data-fancybox=\"gallery-#{md5}\" data-caption=\"#{title.strip}\" data-src=\"#{p.path_for(filename)}\">"
-          list << "<img data-lazy-src=\"#{p.thumb_for(filename,thumb)}\" alt=\"#{title.strip}\" loading=\"\" /></div>"
+          list << "<img data-lazy-src=\"#{p.thumb_for(filename,thumb)}\" alt=\"#{title.strip}\" loading=\"lazy\" /></div>"
 
         end
       end
